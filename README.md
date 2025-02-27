@@ -9,6 +9,10 @@ SFDiff: Diffusion Model with Sufficient Spatial-Fourier Frequency Information In
    链接：https://pan.baidu.com/s/1WQymAHzL39YHKZk-O-JDtw?pwd=671q 
    提取码：671q 
 
+## Pre-trained Weights
+
+You can get the pre-trained weights [here](https://pan.baidu.com/s/1B4w3p0MvORGm8Ka2s1pC-Q?pwd=ecw2)
+
 # Acknowledgments
 
 This repo is built based on [Refusion](https://github.com/Algolzw/image-restoration-sde)
