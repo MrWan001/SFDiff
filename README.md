@@ -9,3 +9,8 @@ SFDiff: Diffusion Model with Sufficient Spatial-Fourier Frequency Information In
    链接：https://pan.baidu.com/s/1WQymAHzL39YHKZk-O-JDtw?pwd=671q 
    提取码：671q 
 
+# Acknowledgments
+
+This repo is built based on [Refusion](https://github.com/Algolzw/image-restoration-sde)
+
+We really appreciate their excellent works!
